@@ -19,12 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Solitude ParticleS"
-email: your-email@example.com
+email: -
 description: >- # this means to ignore newlines until "baseurl:"
-  "アプリケーションの開発ログとアップデート情報"
+  "「Solitude ParticleS」の開発ログとアップデート情報"
 baseurl: "/solpar" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: toya-mimura
+
+# twitter_username: toya-mimura
 github_username:  toya-mimura
 
 # Build settings
