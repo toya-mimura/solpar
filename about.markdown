@@ -22,18 +22,23 @@ permalink: /about/
 <details>
 <summary>基本的な使い方 / Basic Usage</summary>
 
+
 1. これから行う作業（Activity）を選択し、[Start]ボタンを押す。
 2. 作業が終わったら[End]ボタンを押す
 
 </details>
 
+---
 
 <details>
 <summary>「白いパーティクルは？」/ What is the white particles?</summary>
 
+
 - ダミーパーティクルです。「妖精さん」と呼んでいます。
 
 </details>
+
+---
 
 <details>
 <summary>メモ覧 / Memo Function</summary>
