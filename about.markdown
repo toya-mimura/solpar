@@ -19,21 +19,19 @@ permalink: /about/
 ---
 # 使い方 / How to Use
 
----
-**▼ 基本的な使い方 / Basic Usage**
+
+> **▼ 基本的な使い方 / Basic Usage**
 
 1. これから行う作業（Activity）を選択し、[Start]ボタンを押す。
 2. 作業が終わったら[End]ボタンを押す
 
 
----
-**▼ 「白いパーティクルは？」/ What is the white particles?**
+> **▼ 「白いパーティクルは？」/ What is the white particles?**
 
 - ダミーパーティクルです。「妖精さん」と呼んでいます。
 
 
----
-**▼ メモ覧 / Memo Function**
+> **▼ メモ覧 / Memo Function**
 
 - ちょっとしたメモとして利用できるように設けています。
 - 「クリップボードにコピー」するとタイムスタンプも取得できます。
@@ -46,15 +44,13 @@ permalink: /about/
 - （サーバに送信しないため、PCとスマホ間の連携はありません）
 
 
----
-**▼ 背景設定 / Background Customization**
+> **▼ 背景設定 / Background Customization**
 
 - お好みの背景画像に変更することができます。
 - 設定した画像はブラウザに保存されます。サーバにはアップロードされません。
 
 
----
-**▼ 3D View**
+> **▼ 3D View**
 
 - 現在「おまけ」機能として開発中です。
 - 開発主が作成した3Dモデルを展示中（Blenderで作成しています）
