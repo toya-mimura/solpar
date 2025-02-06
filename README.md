@@ -10,7 +10,7 @@
 
 という状況から、個人的に欲しくて作ったアプリです。
 
-ただいまこちらでテストリリース中です：https://solitude-particles.carrd.co/#
+ただいまこちらでテストリリース中です：https://solitude-particles.carrd.co/
 
 
 
@@ -25,14 +25,4 @@
 - 開発時は_config.ymlのbaseurlが"/solpar"になっていることを確認
 - 投稿ファイルは_postsディレクトリにYYYY-MM-DD-title.mdの形式で配置
 - フロントマターは以下の形式を使用：
-
-```
----
-layout: post
-title: "タイトル"
-description: "概要"
-date: YYYY-MM-DD
-categories: カテゴリ
----
-```
 
