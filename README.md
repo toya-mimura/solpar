@@ -1,6 +1,6 @@
 # Solitude ParticleS
 
-「Solitude ParticleS」の開発ログとアップデート情報を発信するブログです。
+「Solitude ParticleS」の開発ログとアップデート情報を発信する[ブログ](https://toya-mimura.github.io/solpar/)です。
 
 ## 「Solitude ParticleS」？
 - 「もくもくと作業をしたいけど、ちょっと人の存在を感じたい」時にふらりと立ち寄れるアプリです。
@@ -24,5 +24,4 @@
 
 - 開発時は_config.ymlのbaseurlが"/solpar"になっていることを確認
 - 投稿ファイルは_postsディレクトリにYYYY-MM-DD-title.mdの形式で配置
-- フロントマターは以下の形式を使用：
 
