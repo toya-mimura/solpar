@@ -12,25 +12,34 @@ permalink: /about/
  SNSなどの喧騒を離れて淡々粛々と作業したいけど、でも少し人の存在を感じたい...といったときにご利用いただける場所です。
 
  図書館の自習室や、カフェで本を読むときのようなイメージで作りました。
+
+ 
  
 
 ---
 # 使い方 / How to Use
 
+<details>
+<summary>クリックして開く</summary>
+</details>
 
----
-## 基本的な使い方 / Basic Usage
+
+<details>
+<summary>基本的な使い方 / Basic Usage</summary>
 1. これから行う作業（Activity）を選択し、[Start]ボタンを押す。
 2. 作業が終わったら[End]ボタンを押す
+</details>
 
 
----
-## 「白いパーティクルは？」/ What is the white particles?
+<details>
+<summary>「白いパーティクルは？」/ What is the white particles?</summary>
 - ダミーパーティクルです。「妖精さん」と呼んでいます。
+</details>
 
 
----
-## メモ覧 / Memo Function 
+
+
+**メモ覧 / Memo Function**
 - ちょっとしたメモとして利用できるように設けています。
 - 「クリップボードにコピー」するとタイムスタンプも取得できます。
   - 利用例１：進捗メモとして。
@@ -41,14 +50,13 @@ permalink: /about/
 - （サーバに送信しないため、PCとスマホ間の連携はありません）
 
 
----
-## 背景設定 / Background Customization
+
+**背景設定 / Background Customization**
 - お好みの背景画像に変更することができます。
 - 設定した画像はブラウザに保存されます。サーバにはアップロードされません。
 
 
----
-## 3D View
+**3D View**
 - 現在「おまけ」機能として開発中です。
 - 開発主が作成した3Dモデルを展示中（Blenderで作成しています）
 - 漂っているパーティクルはSolitudeParticleSに連動しています。
