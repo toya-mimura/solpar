@@ -19,29 +19,21 @@ permalink: /about/
 ---
 # 使い方 / How to Use
 
-<details>
-<summary>基本的な使い方 / Basic Usage</summary>
-
+**▼ 基本的な使い方 / Basic Usage**
 
 1. これから行う作業（Activity）を選択し、[Start]ボタンを押す。
 2. 作業が終わったら[End]ボタンを押す
 
-</details>
 
 ---
 
-<details>
-<summary>「白いパーティクルは？」/ What is the white particles?</summary>
-
+**▼ 「白いパーティクルは？」/ What is the white particles?**
 
 - ダミーパーティクルです。「妖精さん」と呼んでいます。
 
-</details>
-
 ---
 
-<details>
-<summary>メモ覧 / Memo Function</summary>
+**▼ メモ覧 / Memo Function**
 
 - ちょっとしたメモとして利用できるように設けています。
 - 「クリップボードにコピー」するとタイムスタンプも取得できます。
@@ -53,24 +45,19 @@ permalink: /about/
 - サーバには送信されない仕様になっています。
 - （サーバに送信しないため、PCとスマホ間の連携はありません）
 
-</details>
+---
 
-
-<details>
-<summary>背景設定 / Background Customization</summary>
+**▼ 背景設定 / Background Customization**
 
 - お好みの背景画像に変更することができます。
 - 設定した画像はブラウザに保存されます。サーバにはアップロードされません。
 
-</details>
+---
 
-
-<details>
-<summary>3D View</summary>
+**▼ 3D View**
 
 - 現在「おまけ」機能として開発中です。
 - 開発主が作成した3Dモデルを展示中（Blenderで作成しています）
 - 漂っているパーティクルはSolitudeParticleSに連動しています。
 - （青いパーティクルが現在の作業者数で。黄色いパーティクルは「妖精さん（ダミー）」）
 
-</details>
