@@ -13,7 +13,7 @@ permalink: /about/
 
  図書館の自習室や、カフェで本を読むときのようなイメージで作りました。
 
- # Links
+# Links
 
 ## Update Log
 - 日本語版
